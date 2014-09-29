@@ -1,0 +1,20 @@
+name = Mindbridge Strategies
+description = Mindbridge Strategies Custom
+core = 7.x
+
+scripts[] = js/Placeholders.js
+
+stylesheets[all][] = css/screen.css
+
+regions[header] = Header
+regions[main-menu] = Main menu
+regions[navigation] = Navigation
+regions[help] = Help
+regions[banner] = Banner
+regions[content-home] = Content Home
+regions[content-bottom] = Content bottom
+regions[content] = Content
+regions[sidebar] = Sidebar
+regions[widgets] = Widgets
+regions[footer] = Footer
+
